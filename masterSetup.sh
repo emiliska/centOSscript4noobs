@@ -4,3 +4,5 @@ source setupUserPrivs.sh
 source setupNetwork.sh
   ECHO "SCRIPT 2 OF 2 COMPLETED"
   echo "END OF MASTER SCRIPT"
+
+echo "EMILY IS DA COOLEST"
