@@ -4,7 +4,7 @@ adduser emily
 	echo "STEP 1 OF 4"
 	echo "adduser: emily"
 	echo ""
-gpasswd -a emily wheel
+usermod -aG wheel emily
 	echo "STEP 2 OF 4"
 	echo "adduser to sudo"
 	echo ""
